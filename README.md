@@ -1,14 +1,15 @@
 ### X68000 関連
 
 #### 開発環境、プログラミング言語
-* [elf2x68k](https://github.com/yunkya2/elf2x68k) - X68kクロス開発環境
-  * [ダウンロード](https://github.com/yunkya2/micropython-x68k/releases)
-* [gdbserver-x68k](https://github.com/yunkya2/gdbserver-x68k) - クロス開発環境用リモートデバッガ
-  * [ダウンロード](https://github.com/yunkya2/micropython-x68k/releases)
 * [MicroPython for X68000](https://github.com/yunkya2/micropython-x68k) - X68000用MicroPython
   * [ダウンロード](https://github.com/yunkya2/micropython-x68k/releases)
   * [X68000版ドキュメント](https://github.com/yunkya2/micropython-x68k/blob/port-x68k/ports/x68k/README.md)
 
+* [elf2x68k](https://github.com/yunkya2/elf2x68k) - X68kクロス開発環境
+  * [ダウンロード](https://github.com/yunkya2/micropython-x68k/releases)
+* [gdbserver-x68k](https://github.com/yunkya2/gdbserver-x68k) - クロス開発環境用リモートデバッガ
+  * [ダウンロード](https://github.com/yunkya2/micropython-x68k/releases)
+ 
 #### ツール
 * [x68kserremote](https://github.com/yunkya2/x68kserremote) - シリアルポートを使ってX68000からWindowsファイルシステムをアクセス
   * [ダウンロード](https://github.com/yunkya2/x68kserremote/releases)
