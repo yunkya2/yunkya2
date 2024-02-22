@@ -6,6 +6,7 @@
   * [X68000版ドキュメント](https://github.com/yunkya2/micropython-x68k/blob/port-x68k/ports/x68k/README.md)
 
 #### 開発環境
+* (Qiita)[X68000の開発環境について](https://qiita.com/yunkya2/items/a02d04e9157b1e797983)
 * [elf2x68k](https://github.com/yunkya2/elf2x68k) - X68kクロス開発環境
   * [ダウンロード](https://github.com/yunkya2/elf2x68k/releases)
 * [gdbserver-x68k](https://github.com/yunkya2/gdbserver-x68k) - クロス開発環境用リモートデバッガ
@@ -33,7 +34,7 @@
 
 ### Raspberry Pi Pico 関連
 * [pico-mdx](https://github.com/yunkya2/pico-mdx) - ラズパイPicoで動作するMDXファイルプレイヤー
-  * [Raspberry Pi Pico Audio PackでX68000のMDXファイルを再生する](https://qiita.com/yunkya2/items/da423a2bee0266fbec44)
-  * [Raspberry Pi PicoのBOOTSELボタンを使ってMDX playerを制御する](https://qiita.com/yunkya2/items/e415eed7b3bf4b637201)
+  * (Qiita)[Raspberry Pi Pico Audio PackでX68000のMDXファイルを再生する](https://qiita.com/yunkya2/items/da423a2bee0266fbec44)
+  * (Qiita)[Raspberry Pi PicoのBOOTSELボタンを使ってMDX playerを制御する](https://qiita.com/yunkya2/items/e415eed7b3bf4b637201)
 * [Raspberry Pi Pico Sample application with FreeRTOS](https://github.com/yunkya2/pico-freertos-sample) - ラズパイPico上で動作するFreeRTOSサンプル (古いです)
 
