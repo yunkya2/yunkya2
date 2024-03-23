@@ -11,6 +11,7 @@
   * [ダウンロード](https://github.com/yunkya2/elf2x68k/releases)
 * [gdbserver-x68k](https://github.com/yunkya2/gdbserver-x68k) - クロス開発環境用リモートデバッガ
   * [ダウンロード](https://github.com/yunkya2/gdbserver-x68k/releases)
+* [bas2c.py](https://github.com/yunkya2/bas2c-x68k) - Python で書いた X-BASIC to C コンバータ
  
 #### ツール
 * [x68kserremote](https://github.com/yunkya2/x68kserremote) - シリアルポートを使ってX68000からWindowsファイルシステムをアクセス
