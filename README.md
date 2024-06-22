@@ -36,6 +36,8 @@
 
 ### その他レトロPC関連
 * [ttymz80](https://github.com/yunkya2/ttymz80) - ターミナル上で動作する MZ-80K/C & MZ-700 エミュレータ
+* [FD BOOT selector](https://github.com/yunkya2/mz80kmisc/tree/main/fdbootsel) - MZ-80K/C 用 FD ブートセレクタ
+* [unlha](https://github.com/yunkya2/unlha) - Python 版 LZH アーカイブ展開ツール
 
 ### Raspberry Pi Pico 関連
 * [pico-mdx](https://github.com/yunkya2/pico-mdx) - ラズパイPicoで動作するMDXファイルプレイヤー
