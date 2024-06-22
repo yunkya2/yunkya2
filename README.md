@@ -11,7 +11,7 @@
   * [ダウンロード](https://github.com/yunkya2/elf2x68k/releases)
 * [gdbserver-x68k](https://github.com/yunkya2/gdbserver-x68k) - クロス開発環境用リモートデバッガ
   * [ダウンロード](https://github.com/yunkya2/gdbserver-x68k/releases)
-* [bas2c.py](https://github.com/yunkya2/bas2c-x68k) - X-BASIC to C コンバータ (Python 版 & C++ 版)
+* [bas2c](https://github.com/yunkya2/bas2c-x68k) - X-BASIC to C コンバータ (Python 版 & C++ 版)
   * (Python 版はクロス開発環境 elf2x68k に含まれています)
   * [C++ 版ダウンロード](https://github.com/yunkya2/bas2c-x68k/releases) (X68k 実機/エミュレータ上で動作して BC.X の代わりに使用できます)
   * [C++ 版ドキュメント](https://github.com/yunkya2/bas2c-x68k/blob/main/README-bas2c.txt)
