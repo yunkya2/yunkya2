@@ -19,7 +19,8 @@
 * [history-bc](https://github.com/yunkya2/yunkya2/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
   * [ダウンロード](https://github.com/yunkya2/yunkya2/raw/main/history-bc/history-bc.zip)
 * [loopdrv](https://github.com/yunkya2/loopdrv-x68k) - ループバックデバイスドライバ
-  * [ダウンロード](https://github.com/yunkya2/loopdrv-x68k/releases) 
+  * [ダウンロード](https://github.com/yunkya2/loopdrv-x68k/releases)
+* [xdftool.py](https://github.com/yunkya2/micropython-x68k/tree/port-x68k/ports/x68k/xdftool) - XDF ファイル操作ツール
 
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムをアクセス
