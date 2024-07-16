@@ -7,6 +7,7 @@
 
 #### 開発環境
 * (Qiita)[X68000の開発環境について](https://qiita.com/yunkya2/items/a02d04e9157b1e797983)
+* (Qiita)[macOSで始めるX68000開発環境構築](https://qiita.com/yunkya2/items/2a3bf750a7b578d282dc)
 * [elf2x68k](https://github.com/yunkya2/elf2x68k) - X68kクロス開発環境
   * [ダウンロード](https://github.com/yunkya2/elf2x68k/releases)
 * [gdbserver-x68k](https://github.com/yunkya2/gdbserver-x68k) - クロス開発環境用リモートデバッガ
