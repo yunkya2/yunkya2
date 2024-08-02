@@ -25,6 +25,8 @@
 * [loopdrv](https://github.com/yunkya2/loopdrv-x68k) - ループバックデバイスドライバ
   * [ダウンロード](https://github.com/yunkya2/loopdrv-x68k/releases)
 * [xdftool.py](https://github.com/yunkya2/x68kmisc/tree/main/xdftool) - XDF ファイル操作ツール
+* [auxtap](https://github.com/yunkya2/x68kmisc/tree/main/auxtap) - シリアルポートからの入力をキー入力に変換するツール
+  * [ダウンロード](https://github.com/yunkya2/x68kmisc/blob/main/auxtap/auxtap.x)
 
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムをアクセス
