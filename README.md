@@ -29,6 +29,8 @@
   * [ダウンロード](https://github.com/yunkya2/auxtap/releases)
 * [httpsget](https://github.com/yunkya2/httpsget) - X68000でHTTPSサイトにアクセス
   * [ダウンロード](https://github.com/yunkya2/httpsget/releases)
+* [WebXpressionPlus](https://github.com/yunkya2/WebXpressionPlus) - Webブラウザ WebXpression のUTF-8,TLS対応版
+  * [ダウンロード](https://github.com/yunkya2/WebXpressionPlus/releases)
 
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムをアクセス
