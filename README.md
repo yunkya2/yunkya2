@@ -18,8 +18,10 @@
   * [C++ 版ドキュメント](https://github.com/yunkya2/bas2c-x68k/blob/main/README-bas2c.txt)
  
 #### ツール
-* [x68kserremote](https://github.com/yunkya2/x68kserremote) - シリアルポートを使ってX68000からWindowsファイルシステムをアクセス
+* [x68kserremote](https://github.com/yunkya2/x68kserremote) - シリアルポートを使ってX68000からWindowsファイルシステムにアクセス
   * [ダウンロード](https://github.com/yunkya2/x68kserremote/releases)
+* [smbclient-x68k](https://github.com/yunkya2/smbfs-x68k) - smbclient for X68k (LANポートを使ってX68000からWindowsファイルシステムにアクセス)
+  * [ダウンロード](https://github.com/yunkya2/smbfs-x68k/releases) 
 * [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
   * [ダウンロード](https://github.com/yunkya2/x68kmisc/raw/main/history-bc/history-bc.zip)
 * [loopdrv](https://github.com/yunkya2/loopdrv-x68k) - ループバックデバイスドライバ
@@ -33,7 +35,7 @@
   * [ダウンロード](https://github.com/yunkya2/WebXpressionPlus/releases)
 
 #### X68000 Z
-* [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムをアクセス
+* [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムにアクセス
   * [ダウンロード](https://github.com/yunkya2/x68kzremotedrv/releases)
 * [X68000ZキーボードLED制御(pyUSB)](https://github.com/yunkya2/x68kzkbd-pyusb) - X68000 ZのキーボードLEDをpyUSBを使ってPCから制御
 * [X68000ZキーボードLED制御(ラズパイPico)](https://github.com/yunkya2/x68kzkbd-pico) - X68000 ZのキーボードLEDをラズパイPicoから制御
