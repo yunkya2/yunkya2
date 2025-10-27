@@ -58,3 +58,5 @@
   * (Qiita)[Raspberry Pi PicoのBOOTSELボタンを使ってMDX playerを制御する](https://qiita.com/yunkya2/items/e415eed7b3bf4b637201)
 * [Raspberry Pi Pico Sample application with FreeRTOS](https://github.com/yunkya2/pico-freertos-sample) - ラズパイPico上で動作するFreeRTOSサンプル (古いです)
 
+### その他のソフトウェア
+* [iconv_mini](https://github.com/yunkya2/iconv_mini) - iconv()ライクなAPIを持つShiftJIS⇔UTF-8変換専用ライブラリ
