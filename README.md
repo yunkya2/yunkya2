@@ -22,17 +22,18 @@
   * [ダウンロード](https://github.com/yunkya2/x68kserremote/releases)
 * [smbfs-x68k](https://github.com/yunkya2/smbfs-x68k) - smbfs & smbclient for X68k (LANポートを使ってX68000からWindowsファイルシステムにアクセス)
   * [ダウンロード](https://github.com/yunkya2/smbfs-x68k/releases) 
-* [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
-  * [ダウンロード](https://github.com/yunkya2/x68kmisc/raw/main/history-bc/history-bc.zip)
 * [loopdrv](https://github.com/yunkya2/loopdrv-x68k) - ループバックデバイスドライバ
   * [ダウンロード](https://github.com/yunkya2/loopdrv-x68k/releases)
-* [xdftool.py](https://github.com/yunkya2/x68kmisc/tree/main/xdftool) - XDF ファイル操作ツール
 * [auxtap](https://github.com/yunkya2/auxtap) - シリアルポートからの入力をキー入力に変換するツール
   * [ダウンロード](https://github.com/yunkya2/auxtap/releases)
 * [httpsget](https://github.com/yunkya2/httpsget) - X68000でHTTPSサイトにアクセス
   * [ダウンロード](https://github.com/yunkya2/httpsget/releases)
 * [WebXpressionPlus](https://github.com/yunkya2/WebXpressionPlus) - Webブラウザ WebXpression のUTF-8,TLS対応版
   * [ダウンロード](https://github.com/yunkya2/WebXpressionPlus/releases)
+* [x68kmisc](https://github.com/yunkya2/x68kmisc) - その他の雑多なツール類
+  * [xdftool.py](https://github.com/yunkya2/x68kmisc/tree/main/xdftool) - XDF ファイル操作ツール
+  * [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
+    * [ダウンロード](https://github.com/yunkya2/x68kmisc/raw/main/history-bc/history-bc.zip)
 
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムにアクセス
