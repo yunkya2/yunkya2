@@ -20,7 +20,7 @@
 #### ツール
 * [x68kserremote](https://github.com/yunkya2/x68kserremote) - シリアルポートを使ってX68000からWindowsファイルシステムにアクセス
   * [ダウンロード](https://github.com/yunkya2/x68kserremote/releases)
-* [smbclient-x68k](https://github.com/yunkya2/smbfs-x68k) - smbclient for X68k (LANポートを使ってX68000からWindowsファイルシステムにアクセス)
+* [smbfs-x68k](https://github.com/yunkya2/smbfs-x68k) - smbfs & smbclient for X68k (LANポートを使ってX68000からWindowsファイルシステムにアクセス)
   * [ダウンロード](https://github.com/yunkya2/smbfs-x68k/releases) 
 * [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
   * [ダウンロード](https://github.com/yunkya2/x68kmisc/raw/main/history-bc/history-bc.zip)
