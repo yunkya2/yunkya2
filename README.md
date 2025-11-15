@@ -43,7 +43,9 @@
 
 #### エミュレータ関連
 * [WindrvXM埋め込みSCSI HDDイメージ](https://github.com/yunkya2/windrvxm-boot) - XM6 TypeG等のエミュレータでホストファイルシステム起動を実現
-  * [ダウンロード](https://github.com/yunkya2/windrvxm-boot/releases) 
+  * [ダウンロード](https://github.com/yunkya2/windrvxm-boot/releases)
+* [etherL12.sysワークアラウンド](https://github.com/yunkya2/etherL12) - XM6 TypeG v3.37のNereidエミュレーションがX68030モードで動かない問題を回避
+  * [ダウンロード](https://github.com/yunkya2/etherL12/releases) 
 
 #### その他
 * [sectorc68k](https://github.com/yunkya2/sectorc68k) - 「ブートセクタに収まるCコンパイラ」sectorcのX68k版
