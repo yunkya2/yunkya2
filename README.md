@@ -30,6 +30,7 @@
   * [ダウンロード](https://github.com/yunkya2/httpsget/releases)
 * [WebXpressionPlus](https://github.com/yunkya2/WebXpressionPlus) - Webブラウザ WebXpression のUTF-8,TLS対応版
   * [ダウンロード](https://github.com/yunkya2/WebXpressionPlus/releases)
+* [xdfboot](https://github.com/yunkya2/xdfboot) - X68000をXDFファイルから起動 
 * [x68kmisc](https://github.com/yunkya2/x68kmisc) - その他の雑多なツール類
   * [xdftool.py](https://github.com/yunkya2/x68kmisc/tree/main/xdftool) - XDF ファイル操作ツール
   * [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
