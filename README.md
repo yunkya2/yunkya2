@@ -37,6 +37,9 @@
   * [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
     * [ダウンロード](https://github.com/yunkya2/x68kmisc/raw/main/history-bc/history-bc.zip)
 
+#### イーサネットじょい君
+* [joynetd](https://github.com/yunkya2/joynetd) - ジョイスティックポートに接続するLANアダプタ「イーサネットじょい君」ドライバ
+
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムにアクセス
   * [ダウンロード](https://github.com/yunkya2/x68kzremotedrv/releases)
