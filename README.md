@@ -41,6 +41,7 @@
 
 #### イーサネットじょい君
 * [joynetd](https://github.com/yunkya2/joynetd) - ジョイスティックポートに接続するLANアダプタ「イーサネットじょい君」ドライバ
+  * [ダウンロード](https://github.com/yunkya2/joynetd/releases) 
 
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムにアクセス
