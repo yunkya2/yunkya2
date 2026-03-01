@@ -30,6 +30,8 @@
   * [ダウンロード](https://github.com/yunkya2/httpsget/releases)
 * [WebXpressionPlus](https://github.com/yunkya2/WebXpressionPlus) - Webブラウザ WebXpression のUTF-8,TLS対応版
   * [ダウンロード](https://github.com/yunkya2/WebXpressionPlus/releases)
+* [netcat](https://github.com/yunkya2/netcat-x68k) - TCPやUDPのパケットを読み書きするコマンドラインツール
+  * [ダウンロード](https://github.com/yunkya2/netcat-x68k/releases)
 * [xdfboot](https://github.com/yunkya2/xdfboot) - X68000をXDFファイルから起動
   * [ダウンロード](https://github.com/yunkya2/xdfboot/releases)
 * [x68kmisc](https://github.com/yunkya2/x68kmisc) - その他の雑多なツール類
