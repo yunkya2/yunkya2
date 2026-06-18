@@ -36,6 +36,8 @@
   * [ダウンロード](https://github.com/yunkya2/wget-x68k/releases) 
 * [xdfboot](https://github.com/yunkya2/xdfboot) - X68000をXDFファイルから起動
   * [ダウンロード](https://github.com/yunkya2/xdfboot/releases)
+* [bgenabler](https://github.com/yunkya2/bgenabler) - 再起動せずにバックグラウンドタスクを有効化、設定変更するツール
+  * [ダウンロード](https://github.com/yunkya2/bgenabler/releases)  
 * [x68kmisc](https://github.com/yunkya2/x68kmisc) - その他の雑多なツール類
   * [xdftool.py](https://github.com/yunkya2/x68kmisc/tree/main/xdftool) - XDF ファイル操作ツール
   * [history-bc](https://github.com/yunkya2/x68kmisc/tree/main/history-bc) - ヒストリドライバ HISTORY.X を bash ライクなキーバインド、ファイル名補完に改造
