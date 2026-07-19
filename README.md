@@ -51,6 +51,10 @@
 * [WiFi+PCMパイルダー](https://github.com/yunkya2/pilederx_wifipcm) - [PilederX](http://retropc.net/gimons/pilederx/index.html)に搭載することでWiFiアクセス機能を追加
   * [ダウンロード](https://github.com/yunkya2/pilederx_wifipcm/releases)
 
+#### Linux
+* [Linux for X68000](https://github.com/yunkya2/linux-x68k) - Linux (uClinux) がX68000で動作!
+  * [ダウンロード](https://github.com/yunkya2/linux-x68k/releases)
+
 #### X68000 Z
 * [x68kzremotedrv](https://github.com/yunkya2/x68kzremotedrv) - Raspberry Pi Pico Wを使ってX68000 ZからWindowsファイルシステムにアクセス
   * [ダウンロード](https://github.com/yunkya2/x68kzremotedrv/releases)
